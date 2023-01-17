@@ -19,6 +19,7 @@ public class BillValidator {
 	private String billAcceptorNo;
 	private String billAcceptorNotest;
 	private String billAcceptorNotest1;
+	private String billAcceptorNotest3;
 	
 	private String billAcceptorName;
 	
