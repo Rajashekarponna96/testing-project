@@ -4,7 +4,7 @@ public enum Dollar {
 	$1("$1", 1), $2("$2", 2), $5("$5", 5), $10("$10", 10), $20("$20", 20), $50("$50", 50), $100("$100", 100);
 
 	private String dollar;
-
+	private String dollar1;
 	private int value;
 
 	public String getDollar() {
