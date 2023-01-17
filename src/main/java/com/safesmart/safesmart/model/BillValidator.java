@@ -17,6 +17,7 @@ public class BillValidator {
 	private Long id;
 	
 	private String billAcceptorNo;
+	private String billAcceptorNotest;
 	
 	private String billAcceptorName;
 	
