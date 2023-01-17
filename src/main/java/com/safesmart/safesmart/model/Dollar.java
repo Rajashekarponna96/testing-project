@@ -5,6 +5,9 @@ public enum Dollar {
 
 	private String dollar;
 	private String dollar1;
+		private String dollar2;
+	private String dollar3;
+
 	private int value;
 
 	public String getDollar() {
