@@ -8,6 +8,7 @@ public enum Dollar {
 		private String dollar2;
 	private String dollar3;
 	private String dollar4;
+	private String dollar5;
 
 	private int value;
 
